@@ -1,1 +1,3 @@
 Fourth text file
+
+New line was added
